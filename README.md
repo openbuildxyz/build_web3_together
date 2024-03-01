@@ -5,8 +5,7 @@ OpenBuild 是一个面向 Web3 开发者的开源社区。
 
 我们致力于为开发者提供高质量的系统性内容和活动，同时连接 Web2 和 Web3，帮助开发者过渡到去中心化的网络，并通过提供必要的工具和资源，帮助开发者建立声誉体系，构建信任，创造商业机会。
 
-产品官网：你可以在这里一览 OpenBuild 的产品网站：Web3视频｜Bounty | 招聘  
-https://openbuild.xyz/ 
+产品官网：你可以在这里一览 OpenBuild 的产品网站：Web3视频｜Bounty | 招聘  https://openbuild.xyz/ 
 
 Discord 主社区：可以在这里看到各个小组之间的协作与历史信息
 https://discord.gg/QPmdvmGGvx
