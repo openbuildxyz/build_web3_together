@@ -1,4 +1,4 @@
-# How Contribute to OpenBuild
+1# How Contribute to OpenBuild
 Providing many ways to build Web3 with OpenBuild, and everyone is welcome to participate 🤝
 
 # OpenBuild 是什么？
@@ -60,6 +60,14 @@ Solana 开发者教程: https://openbuild.xyz/learn/challenges/2026383513
 [Bounty申请](https://openbuild.xyz/bounties)
 
 # Open-Source Contribution
+
+我们鼓励每一个成员发起项目，通过实践获取经验和财富。
+
+为了使项目能够顺利执行落地，及可持续发展，一般项目会有四个阶段：
+
+想法提出 >> 社区讨论 >> 项目建设 >> 收益分配
+
+目前 LXDAO 社区支持合作的开源项目有 2 个，合作产品 2 个，以及每周有新的想法不断诞生。更新更多项目请参见
 
 项目1：
 Amphitheatre 是一个开源的开发者平台，旨在帮助开发者在云端立即启动新的自动化开发环境。它提供按需且预先配置好的所有工具、库和依赖项，以确保您能够立即开始编写代码。您可以在本地编辑应用程序源代码，Amphitheatre 会自动将您的变更增量部署到 Kubernetes 集群，使得在本地开发和远程部署之间的切换变得更加顺畅和高效。
