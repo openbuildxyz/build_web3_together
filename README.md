@@ -25,13 +25,13 @@ https://github.com/openbuildxyz/build_web3_together?tab=readme-ov-file#bounty--g
 # 加入  OpenBuild
 
 
-1. 谁可以加入 OpenBuild？
+### 谁可以加入 OpenBuild？
 
 
 我们欢迎任何想加入 Web3 的开发者，我们希望你是一位建设者，认可 Web3 真正的价值，愿意为开源社区贡献自己的力量，希望跟志同道合一起探索、学习和建设 Web3 行业。
 
 
-2. 如何加入 OpenBuild？        
+### 如何加入 OpenBuild？        
 
 官网注册成员身份：在官网 openbuild.xyz 点击 Profile，完成信息录入等操作。 
 
