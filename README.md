@@ -34,7 +34,7 @@ Telegram 主社区：
 
 ### 如何加入 OpenBuild？        
 
-官网注册成员身份：在官网 [openbuild.xyz](openbuild.xyz) 点击 Profile，完成信息录入等操作。 
+官网注册成员身份：在官网 [openbuild.xyz](https://openbuild.xyz) 点击 Profile，完成信息录入等操作。 
 
 在社区自我介绍：在 OpenBuild 社群里自我介绍，将有助您更快融入我们的社区。
 
