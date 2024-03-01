@@ -41,7 +41,7 @@ https://github.com/openbuildxyz/build_web3_together?tab=readme-ov-file#bounty--g
 
 
 
-社区里经常提到的 "onboarding" 指的是引导进入的过程。“buidler” 指的是参与 Web3 行业发展建设的人，这里需要指出，buidler 不是拼写错误，是行业黑话，特指 Web3 建设者。
+社区里经常提到的 "onboarding" 指的是引导进入的过程。
 
 
 # 在 OpenBuild，你可以
