@@ -16,7 +16,6 @@ Telegram 主社区：
 https://t.me/OpenBuildxyz
 
 开源项目：你可以在这里加入我们的开源项目。
-https://github.com/openbuildxyz/build_web3_together?tab=readme-ov-file#bounty--grants
 
 关注我们：
 官方 Twitter @OpenBuildxyz
@@ -64,10 +63,12 @@ Solana 开发者教程: https://openbuild.xyz/learn/challenges/2026383513
 
 项目1：
 Amphitheatre 是一个开源的开发者平台，旨在帮助开发者在云端立即启动新的自动化开发环境。它提供按需且预先配置好的所有工具、库和依赖项，以确保您能够立即开始编写代码。您可以在本地编辑应用程序源代码，Amphitheatre 会自动将您的变更增量部署到 Kubernetes 集群，使得在本地开发和远程部署之间的切换变得更加顺畅和高效。
+
 GitHub链接：https://github.com/amphitheatre-app/playground
 
 项目2：
 Faucet-ATM 是一个致力于简化 web3 用户获取测试币的流程的开源项目，我们的目标是为用户提供一个能无缝满足其所有需求的单一应用程序。
+
 GitHub链接 ：https://github.com/Faucet-ATM
 
 # OpenBuild SIG
