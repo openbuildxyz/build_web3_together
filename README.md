@@ -1,3 +1,5 @@
+# How Contribute to OpenBuild
+Providing many ways to build Web3 with OpenBuild, and everyone is welcome to participate 🤝
 
 # OpenBuild 是什么？
 
@@ -40,11 +42,32 @@ https://github.com/openbuildxyz/build_web3_together?tab=readme-ov-file#bounty--g
 明确自己在 OpenBuild 的目的：在 OpenBuild 社区与大家一起建设 Web3 开源项目，同时，在 Web3 一起成长。
 
 
-
 社区里经常提到的 "onboarding" 指的是引导进入的过程。
 
 
-# 在 OpenBuild，你可以
+
+# Developer Contents
+
+Solidity Bootcamp: https://openbuild.xyz/learn/challenges/91
+Starknet Bootcamp: https://openbuild.xyz/learn/challenges/89
+TON Bootcamp: https://openbuild.xyz/learn/challenges/2023609337
+Solana Bootcamp: https://openbuild.xyz/learn/challenges/2026383513
+
+# Bounty & Grants
+
+[Bounty申请](https://openbuild.xyz/bounties)
+
+# Open-Source Contribution
+
+项目1：
+Amphitheatre 是一个开源的开发者平台，旨在帮助开发者在云端立即启动新的自动化开发环境。它提供按需且预先配置好的所有工具、库和依赖项，以确保您能够立即开始编写代码。您可以在本地编辑应用程序源代码，Amphitheatre 会自动将您的变更增量部署到 Kubernetes 集群，使得在本地开发和远程部署之间的切换变得更加顺畅和高效。
+GitHub链接：https://github.com/amphitheatre-app/playground
+
+项目2：
+Faucet-ATM 是一个致力于简化 web3 用户获取测试币的流程的开源项目，我们的目标是为用户提供一个能无缝满足其所有需求的单一应用程序。
+GitHub链接 ：https://github.com/Faucet-ATM
+
+# OpenBuild SIG
 
 1、收获一群伙伴｜志同道合的来自全球的 Web3 建设者朋友，共同学习、探索、建设 Web3 行业；
 
@@ -53,24 +76,3 @@ https://github.com/openbuildxyz/build_web3_together?tab=readme-ov-file#bounty--g
 3、得到一份收入｜我们积极探索全新的协作模式，任何对 OpenBuild 的贡献都应该得到对应的激励和资助；
 
 4、获得一个机会｜在这个稍纵即逝的 Web3 的早期阶段，用最正确踏实的方式进入这个行业，探索 Web3 真正的价值。
-
-
-# How Contribute to OpenBuild
-Providing many ways to build Web3 with OpenBuild, and everyone is welcome to participate 🤝
-
-
-# Developer Contents
-
-> TODO
-
-# Bounty & Grants
-
-> TODO
-
-# Open-Source Contribution
-
-> TODO
-
-# OpenBuild SIG
-
-> TODO
