@@ -48,10 +48,13 @@ https://github.com/openbuildxyz/build_web3_together?tab=readme-ov-file#bounty--g
 
 # Developer Contents
 
-Solidity Bootcamp: https://openbuild.xyz/learn/challenges/91
-Starknet Bootcamp: https://openbuild.xyz/learn/challenges/89
-TON Bootcamp: https://openbuild.xyz/learn/challenges/2023609337
-Solana Bootcamp: https://openbuild.xyz/learn/challenges/2026383513
+Solidity 开发者教程: https://openbuild.xyz/learn/challenges/91
+
+Starknet 开发者教程: https://openbuild.xyz/learn/challenges/89
+
+TON 开发者教程: https://openbuild.xyz/learn/challenges/2023609337
+
+Solana 开发者教程: https://openbuild.xyz/learn/challenges/2026383513
 
 # Bounty & Grants
 
