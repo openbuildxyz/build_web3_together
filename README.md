@@ -56,7 +56,7 @@ Telegram 主社区：
 
 **提交任务操作流程**
 
-  1. 首先 ***点击项目右上方的`Fork`按钮*** 将项目复制到自己的账户下
+  1. 首先 ***点击[项目](https://github.com/openbuildxyz/build_web3_together/blob/main/contribute.md)右上方的`Fork`按钮*** 将项目复制到自己的账户下
   2. 然后进入自己 fork 的项目中，***通过 `git clone`下载到本地***，按照要求将自己的内容放到指定的目录并推送。如果你正在使用 Vscode，这里推荐一个插件 ***git-commit-plugin*** 可以规范你的 commit 格式。
   3. 提交完成后回到我们fork 的项目中(指的是已经存在于自己仓库的复制体)，***点击`Pull Request`***，因为是 fork 过来的项目，源分支(我们自己的 fork)和目标分支([主仓库](https://github.com/openbuildxyz/solidity_bootcamp)) Github 会自动帮我们填好。我们只需要填一下PR的标题和描述即可。一般来讲，PR的标题应该简洁明了地概括你所做的修改。而PR的描述则是详细说明你的修改内容和目的，以便审核者更好地理解你的修改内容。需要注意的是，不能与目标仓库当前已有代码产生冲突噢。当我们创建了PR以后，就可以等待目标仓库的管理员审核通过啦～
 
