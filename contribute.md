@@ -1,7 +1,6 @@
-<img width="450" alt="image" src="https://github.com/openbuildxyz/build_web3_together/assets/37505366/ddd371cb-b98a-4ebc-a8ff-488e38411183">
 
 ## 如何参与 OpenBuild 社区贡献？
-
+在 OpenBuild 社区中，可以通过多种行为参与社区贡献，详细说明如下：
 |  参与类型   | 贡献值 | 说明  | 
 |  ----  | ----  |---- | 
 | 主动内容投稿 | +10/篇 | 文章类型为“原创”，通过审核视为有效
