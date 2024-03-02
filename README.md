@@ -40,9 +40,7 @@ Telegram 主社区：
 
 明确自己在 OpenBuild 的目的：在 OpenBuild 社区与大家一起建设 Web3 开源项目，同时，在 Web3 一起成长。
 
-
-社区里经常提到的 "onboarding" 指的是引导进入的过程。
-
+### 如何参与 OpenBuild 贡献？ 
 
 
 # Developer Contents
