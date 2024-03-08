@@ -1,0 +1,9 @@
+### VisualStudioCode template
+.vscode/*
+
+# Local History for Visual Studio Code
+.history/
+
+# IntelliJ project files
+.idea
+*.iml
