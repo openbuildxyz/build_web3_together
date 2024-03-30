@@ -1,6 +1,3 @@
-1# How Contribute to OpenBuild
-Providing many ways to build Web3 with OpenBuild, and everyone is welcome to participate 🤝
-
 # OpenBuild 是什么？
 
 OpenBuild 是一个面向 Web3 开发者的开源社区。
