@@ -25,4 +25,4 @@
 |  昵称   | 微信id  | 文章/活动方案链接 | 贡献类型 | 审核情况  | 
 |  ----  | ----  |---- | ----  | ----  |
 | qiuqiu | sqiuiu999 | https://mp.weixin.qq.com/ | 原创文章  
-| 单元格  | 单元格 |  
+| liwa  | guliwa3306 |  | OpenBuild开源项目贡献|
